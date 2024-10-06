@@ -1,2 +1,2 @@
-# TestAppliSh
-No Description needed
+# Ball Blocker game
+In "Ball Blocker," players control a movable tile on one side of the screen to intercept a bouncing ball. The objective is to prevent the ball from reaching the opposite end while scoring points for each successful hit. As the game progresses, the ball speeds up, adding to the challenge. With vibrant graphics and engaging sound effects, this Scratch project offers a fun, fast-paced experience for players of all ages!
